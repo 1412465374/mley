@@ -25,7 +25,7 @@
         <shiro.version>1.2.3</shiro.version>
         <shrio-redis.version>2.4.2.1-RELEASE</shrio-redis.version>
         <jedis.version>2.7.2</jedis.version>
-        <fastjson.version>1.2.29</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-collections4.version>4.1</commons-collections4.version>
     </properties>
 
